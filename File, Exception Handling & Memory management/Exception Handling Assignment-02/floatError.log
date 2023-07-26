@@ -1,0 +1,4 @@
+ERROR:root:'age' doesn't exist
+ERROR:root:'age' doesn't exist
+ERROR:root:list index out of range
+ERROR:root:ModuleNotFoundError: No module named 'exception'
